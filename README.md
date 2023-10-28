@@ -1,2 +1,2 @@
 # Calculadora
-Modelo de calculador desenvolvida em JAVA.
+Modelo de calculadora desenvolvida em JAVA.
